@@ -13,7 +13,7 @@ body {
 }
 
 #logo-img {
-  background: url('../images/mylogo_150px.png') no-repeat;
+  background: url('../images/mylogo_150px.png');
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
