@@ -153,6 +153,21 @@ body {
 }
 /* END HOME PAGE */
 
+/*ABOUT US PAGE*/
+#p1{
+  color:#f6b319;
+}
+#p2{
+  text-align: center;
+  color: #fdb30578;
+}
+h1{
+  color:#e7f06be8
+}
+h2{
+  color:#6ece2fc5
+}
+
 /* MENU CATEGORIES PAGE */
 .category-tile { 
   position: relative;
